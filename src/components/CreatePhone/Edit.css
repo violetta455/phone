@@ -1,0 +1,51 @@
+.main-modal{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(18, 18, 39, 0.801);
+}
+
+.inner-modal{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(36, 77, 139);
+    margin: 150px auto;
+    text-align: center;
+}
+
+.btn_1{
+    margin: 0 0 15px 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    width: 55px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(18, 85, 209);
+}
+
+
+.imp_1{
+    margin: 0 35px 20px 0;
+    font-family: 'Inter', sans-serif;
+    padding: 10px;
+    align-items: center;
+    font-weight: 700;
+    background-color:rgb(255, 255, 255);
+    color:rgb(18, 85, 209);
+    border: none;
+}
+
+
+.btn_2{
+    margin: 0 0 15px 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    width: 70px;
+    height: 55px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(18, 85, 209);
+}

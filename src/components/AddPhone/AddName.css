@@ -1,0 +1,17 @@
+.name{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(18, 85, 209);
+    font-size: 30px;
+}
+
+
+.name_1{
+    font-family: 'Inter', sans-serif;
+    padding: 10px;
+    font-weight: 700;
+    background-color:rgb(18, 85, 209);
+    color: aliceblue;
+    outline-style: none;
+    border: none;
+    margin: 10px;
+}
